@@ -1,0 +1,4 @@
+<?php
+	$vitesse = 20 ;
+	echo "Vitesse : ", $vitesse , "noeuds" noeuds\n" ;
+?>
